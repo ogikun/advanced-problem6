@@ -1,24 +1,7 @@
-# README
+# 応用課題　6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+課題6提出のため作成
 
-Things you may want to cover:
+ruby 2.6.3
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rails　5.2.4
